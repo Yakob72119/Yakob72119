@@ -10,7 +10,7 @@
 - 🎓 **Educational background:**  
   **Bachelor of Science in Software Engineering**  
   *Graduated with Great Distinction — 2024*  
-  I earned my degree in Software Engineering in 2024, achieving great distinction. During my studies, I developed a strong foundation in software development, with expertise in both frontend and backend technologies. I specialized in Android development using Java, and desktop application development with C#. My education also equipped me with problem-solving skills and hands-on experience in designing and implementing robust software solutions.
+  I earned my degree in Software Engineering in 2024 from Haramaya University , achieving great distinction. During my studies, I developed a strong foundation in software development, with expertise in both frontend and backend technologies. I specialized in Android development using Java, and desktop application development with C#. My education also equipped me with problem-solving skills and hands-on experience in designing and implementing robust software solutions.
 
 - 📫 **How to reach me:**  
   **beshayakob72119@gmail.com** or [Telegram](https://t.me/beshahyakob51)
