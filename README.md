@@ -101,5 +101,6 @@
   </td>
 </tr>
 </table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakob72119&show_icons=true&locale=en&layout=compact" alt="yakob72119" /></p>
 
 
